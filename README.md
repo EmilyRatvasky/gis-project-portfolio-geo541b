@@ -8,8 +8,8 @@ Emily Ratvasky
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/basic-mapping/Ratvasky_GEO541B_Assignment1.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/basic-mapping/Ratvasky_GEO541B_Assignment_2.ipynb)
+- [First map in ArcGIS Pro](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/basic-mapping/Ratvasky_GEO541B_W1A.ipynb)
+- [Map the age index based on 2000 census data](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/basic-mapping/Ratvasec_GEO541B_W5A.ipynb)
 
 ## Map Coordinate Basics
 
