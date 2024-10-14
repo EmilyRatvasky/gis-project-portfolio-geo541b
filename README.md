@@ -13,4 +13,4 @@ Emily Ratvasky
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](insert link here)
+- [Understanding map coordinates](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/map-coordinate-basics/Ratvasky_GEO541B_W3A.ipynb)
