@@ -15,6 +15,11 @@ Emily Ratvasky
 
 - [Understanding map coordinates](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/map-coordinate-basics/Ratvasky_GEO541B_W3A.ipynb)
 
+## Remote Sensing Basics
+- 
+
 ## ArcGIS Online App
 - [Cholera Outbreak, 1854](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=4e3a62b67bbd4778a3c44c7969b710a1)
   
+## Technical Guides
+- 
