@@ -26,5 +26,8 @@ Emily Ratvasky
 - [Overlapping vectors, point-density, and heat map](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/spatial-analysis-vector/Practicing%20spatial%20analysis%20of%20vector%20data.ipynb)
 - [Working with U.S. Census Data for Spatial Analysis](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/spatial-analysis-vector/Spatial%20analysis%20of%20US%20Census%20data.ipynb)
 
+## 3D Mapping
+- [The World in 3D: San Fransisco Embarcadero Modeling](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/3D-mapping/SF%20Embarcadero%20Modeling_ratvasky.zip)
+
 ## ArcGIS Online App
 - [Cholera Outbreak, 1854](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=4e3a62b67bbd4778a3c44c7969b710a1)
