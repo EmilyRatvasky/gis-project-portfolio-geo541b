@@ -31,3 +31,8 @@ Emily Ratvasky
 
 ## ArcGIS Online App
 - [Cholera Outbreak, 1854](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=4e3a62b67bbd4778a3c44c7969b710a1)
+
+## Final Project Deliverables
+- [Cleaned Dataset](https://github.com/EmilyRatvasky/gis-project-portfolio-geo541b/blob/main/OH-pop-change_2010-2020/OH20102020CT_pop_econ.lyrx)
+- [Proposal Slides](https://docs.google.com/presentation/d/1oYHJrrFUIjM4xUzbpXjwi-7pgHBHU7o_1HAtHlwgteo/edit?usp=sharing)
+- [StoryMap](https://arcg.is/0j0LCe)
