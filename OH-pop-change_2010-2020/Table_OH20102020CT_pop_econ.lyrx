@@ -1,0 +1,33 @@
+{
+  "type" : "CIMLayerDocument",
+  "version" : "3.4.0",
+  "build" : 55405,
+  "tables" : [
+    "CIMPATH=Map/OH20102020CT_pop_econ_table.json"
+  ],
+  "tableDefinitions" : [
+    {
+      "type" : "CIMStandaloneTable",
+      "name" : "OH20102020CT_pop_econ_table",
+      "uRI" : "CIMPATH=Map/OH20102020CT_pop_econ_table.json",
+      "sourceModifiedTime" : {
+        "type" : "TimeInstant"
+      },
+      "useSourceMetadata" : true,
+      "displayField" : "CountyName",
+      "editable" : true,
+      "dataConnection" : {
+        "type" : "CIMStandardDataConnection",
+        "workspaceConnectionString" : "DATABASE=.\\Combining things\\Combining things.gdb",
+        "workspaceFactory" : "FileGDB",
+        "dataset" : "OH20102020CT_pop_econ_table",
+        "datasetType" : "esriDTTable"
+      },
+      "autoGenerateRowTemplates" : true,
+      "serviceTableID" : -1,
+      "showPopups" : true
+    }
+  ],
+  "rGBColorProfile" : "sRGB IEC61966-2.1",
+  "cMYKColorProfile" : "U.S. Web Coated (SWOP) v2"
+}
